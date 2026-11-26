@@ -27,12 +27,3 @@ As a basis, I used an online store's database containing information about:
 - Calculated the number of accounts and email interactions by date, country, and account status.
 - Compared countries using ranking functions.
 
-
-
-
-
-**5. String Functions**
-- Extracted product sizes from product descriptions using string functions.
-
-## SQL Skills
-BigQuery, JOINs, CTEs, UNION ALL, Subqueries, Window Functions, DENSE_RANK, Aggregate Functions, CASE WHEN, Date and Time Functions, String Functions, COALESCE.
