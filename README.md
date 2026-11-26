@@ -11,7 +11,13 @@ As a basis, I used an online store's database containing information about:
 
 ## Tasks & Analysis
 
-**1. Email Campaign Analysis**
+**1.String Functions**
+- Extracted product sizes from product descriptions using string functions.
+
+
+
+
+Email Campaign Analysis**
 - Analyzed sent, opened, and clicked emails.
 - Calculated the number of accounts and email interactions by date, country, and account status.
 - Compared countries using ranking functions.
