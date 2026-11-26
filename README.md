@@ -14,7 +14,9 @@ As a basis, I used an online store's database containing information about:
 **1.String Functions**
 - Extracted product sizes from product descriptions using string functions.
 
-
+**2.Revenue and Advertising Costs**
+- Analyzed monthly sales revenue and paid advertising costs.
+- Calculated cumulative revenue and advertising costs over time.
 
 
 Email Campaign Analysis**
@@ -31,9 +33,6 @@ Email Campaign Analysis**
 - Calculated each account's percentage of emails sent within a month.
 - Identified the first and last email sending dates for each account.
 
-**4. Revenue and Advertising Costs**
-- Analyzed monthly sales revenue and paid advertising costs.
-- Calculated cumulative revenue and advertising costs over time.
 
 **5. String Functions**
 - Extracted product sizes from product descriptions using string functions.
