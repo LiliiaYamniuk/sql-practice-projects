@@ -12,16 +12,16 @@ As a basis, I used an online store's database containing information about:
 ## Tasks & Analysis  
 **1.String Functions**  
 Extracted product sizes from product descriptions using string functions.  
-**2.Revenue and Advertising Costs**
+**2.Revenue and Advertising Costs**  
 Analyzed monthly sales revenue and paid advertising costs.
 Calculated cumulative revenue and advertising costs over time.  
-**3. Monthly Email Analysis**
+**3. Monthly Email Analysis**  
 Calculated each account's percentage of emails sent within a month and identified the first and last email sending dates for each account.  
-**4. Revenue by Continent**
+**4. Revenue by Continent**  
 Calculated total revenue and revenue by device type (Mobile and Desktop).
 Analyzed account and verified account counts.
 Calculated session counts and each continent's share of total revenue.  
-**5.Email Analysis**
+**5.Email Analysis**  
 Analyzed sent, opened, and clicked emails.
 Calculated the number of accounts and email interactions by date, country, and account status.
 Compared countries using ranking functions.
