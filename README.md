@@ -13,12 +13,12 @@ As a basis, I used an online store's database containing information about:
 
 **1.String Functions**  
 Extracted product sizes from product descriptions using string functions.  
-[String Functions](05_string_functions.sql)  
+[String Functions](01_string_functions.sql)  
 
 **2.Revenue and Advertising Costs**  
 Analyzed monthly sales revenue and paid advertising costs.
 Calculated cumulative revenue and advertising costs over time.  
-[Revenue by Continent](02_revenue_by_continent.sql)  
+[Revenue and Advertising Costs](02_revenue_and_ad_costs.sql)  
 
 **3. Monthly Email Analysis**  
 Calculated each account's percentage of emails sent within 
@@ -29,7 +29,7 @@ a month and identified the first and last email sending dates for each account.
 Calculated total revenue and revenue by device type (Mobile and Desktop).
 Analyzed account and verified account counts.
 Calculated session counts and each continent's share of total revenue.  
-[Revenue and Advertising Costs](04_revenue_and_ad_costs.sql)  
+[Revenue by Continent](04_revenue_by_continent.sql)  
 
 **5.Email Analysis**  
 Analyzed sent, opened, and clicked emails.
